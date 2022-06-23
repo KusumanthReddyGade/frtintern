@@ -3,6 +3,9 @@ Future ready talent final project
 
 
 
+This is a Webpage developed using HTML & CSS as part of FUTURE READY TALENT Internship Project & implementing Microsoft Azure Services like The Static Webapp to deploy the website and QnA makers to answers the queries of the consumers.
+
+
 
 Home Page:
 ![image](https://user-images.githubusercontent.com/100296974/175267252-99a4f9ad-a0a9-40c3-97bf-52fa00c075e1.png)
